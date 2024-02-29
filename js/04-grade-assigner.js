@@ -19,3 +19,4 @@ switch (true) {
     default:
         console.log("Only numbers between 1 and 100 are accepted.");
         break;
+}
